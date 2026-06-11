@@ -77,6 +77,30 @@
           "type": "json"
         }
       ]
+    },
+    {
+      "id": "unit-testing-pytest",
+      "title": "Unit Testing with pytest",
+      "description": "Learn professional testing practices using pytest. Write unit tests to verify code behavior, use mocking to isolate dependencies, and measure test coverage.",
+      "path": "assignments/unit-testing-pytest",
+      "dueDate": "2026-06-18",
+      "attachments": [
+        {
+          "name": "Utility Module",
+          "file": "utils.py",
+          "type": "python"
+        },
+        {
+          "name": "Test Template",
+          "file": "test_utils.py",
+          "type": "python"
+        },
+        {
+          "name": "Dependencies",
+          "file": "requirements.txt",
+          "type": "txt"
+        }
+      ]
     }
   ]
 }
